@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RecursionSumming/1.0.0": {
+        "runtime": {
+          "RecursionSumming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecursionSumming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

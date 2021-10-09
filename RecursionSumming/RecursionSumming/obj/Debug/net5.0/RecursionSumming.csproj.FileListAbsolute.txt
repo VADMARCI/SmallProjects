@@ -1,0 +1,16 @@
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.csproj.AssemblyReference.cache
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.AssemblyInfoInputs.cache
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.AssemblyInfo.cs
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.csproj.CoreCompileInputs.cache
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.exe
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.deps.json
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.runtimeconfig.json
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.runtimeconfig.dev.json
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.dll
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\ref\RecursionSumming.dll
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\bin\Debug\net5.0\RecursionSumming.pdb
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.dll
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\ref\RecursionSumming.dll
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.pdb
+C:\Users\Marton Vadasz\Desktop\School\UCN\Small Projects\SmallProjects\RecursionSumming\RecursionSumming\obj\Debug\net5.0\RecursionSumming.genruntimeconfig.cache

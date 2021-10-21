@@ -82,6 +82,10 @@ namespace RockPaperScissors_noGUI_
                     {
                         Console.WriteLine("Player wins! :)");
                     }
+                    else if (playerPoints == computerPoints)
+                    {
+                        Console.WriteLine("It is a draw! :|");
+                    }
                     else
                     {
                         Console.WriteLine("Computer wins! :(");
